@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  👨‍💻I am a Software Engineer, with a Lets-get-it, on-time and high-quality product spirit, and more than two years of experience designing requirements, designing, implementing, testing and delivering complex back-end and web applications using variety of programming languages and technologies. A .NET Evangelis✝
-
+<!-- -  👨‍💻I am a Software Engineer, with a Lets-get-it, on-time and high-quality product spirit, and more than two years of experience designing requirements, designing, implementing, testing and delivering complex back-end and web applications using variety of programming languages and technologies. A .NET Evangelis✝
+-->
 - 🔭 I’m currently working on an application where you can actualy verify the true identity of a Nigerian person. Expect the link soon...
 
 - 🌱 I’m currently learning new technologies and a cleaner coding architecture.
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Fullstack Web Development | Desktop Application Development | Computer Troubleshooting
 
-- 📫 How to reach me: | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a> | <a href="tel:2348131684800">+234 813 168 4800</a> | 
+- 📫 How to reach me: | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
