@@ -25,3 +25,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about Fullstack Web Development | Desktop Application Development | Computer Troubleshooting
 
 - 📫 How to reach me: | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
+
+
+<a href="https://github.com/abahjosephisrael/abahjosephisrael">
+	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=abahjosephisrael&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/abahjosephisrael/abahjosephisrael"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abahjosephisrael&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+
+<p></p>
+<p></p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abahjosephisrael)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/abahjosephisrael/abahjosephisrael/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/abahjosephisrael/abahjosephisrael.svg)](https://github.com/abahjosephisrael/abahjosephisrael/network)
+[![GitHub issues](https://img.shields.io/github/issues/abahjosephisrael/abahjosephisrael.svg)](https://github.com/abahjosephisrael/abahjosephisrael/issues)
+[![GitHub license](https://img.shields.io/github/license/abahjosephisrael/abahjosephisrael.svg)](https://github.com/abahjosephisrael/abahjosephisrael/blob/main/LICENSE)
+[![Only 32 Kb](https://badge-size.herokuapp.com/abahjosephisrael/abahjosephisrael/main/README.md)](https://github.com/abahjosephisrael/abahjosephisrael/blob/main/README.md)
+[![GitHub stars](https://img.shields.io/github/stars/abahjosephisrael/abahjosephisrael.svg?style=flat&label=Star&maxAge=2592000)](https://github.com/abahjosephisrael/abahjosephisrael/stargazers/)
+
