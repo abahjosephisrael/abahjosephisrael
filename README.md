@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
 
 
+
 <a href="https://github.com/abahjosephisrael/abahjosephisrael">
 	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=abahjosephisrael&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
 <a href="https://github.com/abahjosephisrael/abahjosephisrael"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abahjosephisrael&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
