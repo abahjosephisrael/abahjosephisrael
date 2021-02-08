@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on an application where you can actualy verify the true identity of a Nigerian person. Expect the link soon...
 
-- 🌱 I’m currently learning React js, new technologies and a cleaner coding architecture.
+<!-- - 🌱 I’m currently learning React js, new technologies and a cleaner coding architecture. -->
 
 - 👯 I’m looking to collaborate on .NET Open source. I am always open to contributions ✊
 
