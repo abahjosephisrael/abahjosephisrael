@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- -  👨‍💻I am a Software Engineer, with a Lets-get-it, on-time and high-quality product spirit, and more than two years of experience designing requirements, designing, implementing, testing and delivering complex back-end and web applications using variety of programming languages and technologies. A .NET Evangelis✝
--->
+
 - 🔭 I’m currently working on an application where you can actualy verify the true identity of a Nigerian person. Expect the link soon...
 
 <!-- - 🌱 I’m currently learning React js, new technologies and a cleaner coding architecture. -->
