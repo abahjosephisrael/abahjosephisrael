@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on .NET Open source. I am always open to contributions ✊
 
-- 💬 Ask me about Fullstack Web Development | Desktop Application Development | Computer Troubleshooting
+- 💬 Ask me about Fullstack Web Development | Desktop Application Development | CI/CD Pipelines | .NET | API | AWS | Azure
 
 - 📫 How to reach me: | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
 
