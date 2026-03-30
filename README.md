@@ -84,7 +84,8 @@ I don’t just build things to work — I build them to last.
 
 ## 🤝 Let’s Connect
 
-I’m always open to collaborating on meaningful projects, especially those involving backend systems, fintech, or scalable architectures. | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
+I’m always open to collaborating on meaningful projects, especially those involving backend systems, fintech, or scalable architectures.
+| <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
 
 ---
 
