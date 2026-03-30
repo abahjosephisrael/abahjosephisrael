@@ -1,45 +1,93 @@
-### Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**abahjosephisrael/abahjosephisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I’m Joseph — a passionate software engineer focused on building scalable, reliable, and production-ready systems.
 
-Here are some ideas to get you started:
+I specialize in **.NET development**, with strong experience designing and implementing backend systems using modern architectural patterns like **Onion Architecture**, **CQRS**, and **MediatR**. I enjoy turning complex business requirements into clean, maintainable, and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- -  👨‍💻I am a Software Engineer, with a Lets-get-it, on-time and high-quality product spirit, and more than two years of experience designing requirements, designing, implementing, testing and delivering complex back-end and web applications using variety of programming languages and technologies. A .NET Evangelis✝
+---
 
-- 🔭 I’m currently working on an application where you can actualy verify the true identity of a Nigerian person. Expect the link soon...
+## 🚀 What I Do
 
-<!-- - 🌱 I’m currently learning React js, new technologies and a cleaner coding architecture. -->
+* 🔹 Build robust **Web APIs** using ASP.NET Core
+* 🔹 Design scalable systems with **clean architecture principles**
+* 🔹 Implement **transactional workflows** and handle complex data consistency challenges
+* 🔹 Work with **Entity Framework Core**, optimizing queries and resolving real-world data issues
+* 🔹 Integrate external services (SOAP, REST, payment systems, etc.)
+* 🔹 Write **unit and integration tests** to ensure reliability
 
-- 👯 I’m looking to collaborate on .NET Open source. I am always open to contributions ✊
+---
 
-- 💬 Ask me about Fullstack Web Development | Desktop Application Development | CI/CD Pipelines | .NET | API | AWS | Azure
+## 🧠 Engineering Mindset
 
-- 📫 How to reach me: | <a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
+I approach software development with a focus on:
 
+* **Maintainability over quick hacks**
+* **Clarity over cleverness**
+* **Scalability from day one**
+* **Resilience in distributed systems**
 
+I’m particularly interested in:
 
-<a href="https://github.com/abahjosephisrael/abahjosephisrael">
-	<img height="235px" align="center" src="https://github-readme-stats.vercel.app/api?username=abahjosephisrael&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/abahjosephisrael/abahjosephisrael"><img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abahjosephisrael&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true" /></a>
+* Modular monoliths and microservices architecture
+* Event-driven systems and background processing
+* Payment systems and financial workflows
+* System design and performance optimization
 
-<p></p>
-<p></p>
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abahjosephisrael)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/abahjosephisrael/abahjosephisrael/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/abahjosephisrael/abahjosephisrael.svg)](https://github.com/abahjosephisrael/abahjosephisrael/network)
-[![GitHub issues](https://img.shields.io/github/issues/abahjosephisrael/abahjosephisrael.svg)](https://github.com/abahjosephisrael/abahjosephisrael/issues)
-[![GitHub license](https://img.shields.io/github/license/abahjosephisrael/abahjosephisrael.svg)](https://github.com/abahjosephisrael/abahjosephisrael/blob/main/LICENSE)
-[![Only 32 Kb](https://badge-size.herokuapp.com/abahjosephisrael/abahjosephisrael/main/README.md)](https://github.com/abahjosephisrael/abahjosephisrael/blob/main/README.md)
-[![GitHub stars](https://img.shields.io/github/stars/abahjosephisrael/abahjosephisrael.svg?style=flat&label=Star&maxAge=2592000)](https://github.com/abahjosephisrael/abahjosephisrael/stargazers/)
+## 🛠️ Tech Stack
 
+**Languages & Frameworks**
+
+* C# / .NET (ASP.NET Core, Web API)
+* LINQ, EF Core
+* Java
+* Spring Boot
+
+**Architecture & Patterns**
+
+* CQRS + MediatR
+* Onion / Clean Architecture
+* Domain-Driven Design (DDD principles)
+
+**Tools & Infrastructure**
+
+* Docker
+* PostgreSQL / SQL Server
+* Redis
+* Hangfire (background jobs)
+* Azure Pipelines
+
+---
+
+## 🔍 What You’ll Find Here
+
+On my GitHub, you’ll find projects that reflect:
+
+* Real-world backend systems
+* Clean and structured codebases
+* Scalable architecture implementations
+* Practical solutions to complex engineering problems
+
+I don’t just build things to work — I build them to last.
+
+---
+
+## 🌱 Currently Growing In
+
+* Advanced distributed systems design
+* Event-driven architecture & saga patterns
+* Cloud-native development
+* Performance tuning at scale
+
+---
+
+## 🤝 Let’s Connect
+<a href="https://www.linkedin.com/in/abah-joseph-israel-8b7041126/">LinkedIn</a> | <a href="mailto:sirjoh.dev@gmail.com">sirjoh.dev@gmail.com</a>
+I’m always open to collaborating on meaningful projects, especially those involving backend systems, fintech, or scalable architectures.
+
+---
+
+> “Great software is not just written — it is designed, refined, and continuously improved.”
+
+Thanks for stopping by 🚀
